@@ -1,0 +1,3 @@
+F:\GCFile\JS\nodejs\MCPlayerSpawn\MCPlayerSpawn\obj\Debug\MCPlayerSpawn.njsproj.AssemblyReference.cache
+F:\GCFile\JS\nodejs\MCPlayerSpawn\MCPlayerSpawn\obj\Debug\MCPlayerSpawn.njsproj.CoreCompileInputs.cache
+F:\GCFile\JS\nodejs\MCPlayerSpawn\MCPlayerSpawn\bin\Microsoft.NodejsTools.WebRole.dll
